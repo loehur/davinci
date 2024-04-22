@@ -1,0 +1,51 @@
+/*======= index.html =======*/
+#about_us .col-1{
+	width:318px;
+	margin-right:85px;
+}
+
+#about_us .col-2{
+	width:392px;
+}
+
+#services .col-1{
+	width:308px;
+	margin-right:90px;
+}
+
+#services .col-2{
+	width:425px;
+}
+
+
+#services2 .col-1{
+	width:400px;
+	margin-right:25px;
+}
+
+#services2 .col-2{
+	width:400px;
+}
+
+#services3 .col-1{
+	width:400px;
+	margin-right:25px;
+}
+
+#services3 .col-2{
+	width:400px;
+}
+
+
+#contacts .col-1{
+	width:312px;
+	margin-right:90px;
+}
+
+#contacts .col-2{
+	width:394px;
+}
+
+/*=========================*/
+
+
